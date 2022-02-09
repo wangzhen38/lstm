@@ -1,36 +1,45 @@
 本文整理了21年各大厂在推荐顶会上的论文发表情况。
 ### WSDM2021
+
 1.Real-time Relevant Recommendation Suggestion
 - Author(Institute): Ruobing Xie(WeChat)
 - KeyWords：relevant recommendation
 - Dataset：RS-331M
+
 2.Diverse User Preference Elicitation with Multi-Armed Bandits
 - Author(Institute): Filip Radlinski(Google二作)
 - KeyWords：preference elicitation; diversity; bandits
 - Dataset：Movielens; Amazon
+
 3.User Response Models to Improve a REINFORCE Recommender System
 - Author(Institute): Minmin Chen(Google)
 - KeyWords: Auxiliary Tasks; User Response Models; Reinforcement Learning
+
 4.A Black-Box Attack Model for Visually-Aware Recommenders
 - Author(Institute): Rami Cohen(Intuit)
 - KeyWords: Attacks; Adversarial Examples
 - Dataset: Amazon
+
 5.Non-Clicks Mean Irrelevant? Propensity Ratio Scoring As a Correction
 - Author(Institute): Zhen Qin(Google)
 - KeyWords: Unbiased learning to rank; implicit feedback
 - Dataset: GMail
+
 6.Unbiased Learning to Rank in Feeds Recommendation
 - Author(Institute): Li He(JD四作); Dawei Yin(Baidu五作)
 - KeyWords: Feeds Recommendation; Learning to Rank; Unbiased Learning
 - Dataset: JD
+
 7.Improving Cloud Storage Search with User Activity
 - Author(Institute): Rolf Jagerman(Google)
 - KeyWords: User activity logs; Learning to Rank
 - Dataset: Google Drive
+
 8.Network for Sequential Recommendation
 - Author(Institute): Jianwei Zhang (Alibaba)
 - KeyWords: Sequential recommendation; Sparse-interest network; Multi-interest extraction
 - Dataset: MovieLens Amazon; Taobao
+
 9.DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving
 - Author(Institute): Junwei Pan(Yahoo)
 - KeyWords: Deep acceleration; ad serving; structural pruning; preconditioner; lightweight models; fast inference; low memory
